@@ -1,0 +1,29 @@
+Software Requirements Specification (SRS) for techNotes
+
+1. Introduction
+The techNotes system aims to replace the current sticky note system by providing a digital platform for managing and tracking notes within an organization. This document outlines the functional and non-functional requirements for the techNotes application.
+
+2. User Stories
+
+As a user, I want the current sticky note system to be replaced with the techNotes application.
+As a user, I want a public-facing page to display basic contact information.
+As an employee, I want to log in to the notes app using my credentials.
+As a user, I want to be greeted with a welcome page after successful login.
+As a user, I want the application to provide easy navigation throughout the system.
+As a user, I want to see my current user information and assigned role displayed.
+As a user, I want the option to log out from the application.
+As a user, I want to be prompted to log in at least once per week.
+As an administrator, I want the ability to promptly revoke user access if necessary.
+As a user, I want notes to be assigned to specific individuals.
+As a user, I want notes to include a unique ticket number, title, note body, created date, and last updated date.
+As a user, I want notes to have statuses of either OPEN or COMPLETED.
+As a user, I want the system to recognize three user roles: Employees, Managers, and Admins.
+As a Manager or Admin, I want the capability to delete notes.
+As a user, I want any individual to create a note, particularly when a customer checks in.
+As an employee, I want to view and edit only the notes assigned to me.
+As a Manager or Admin, I want to view, edit, and delete all notes.
+As a Manager or Admin, I want exclusive access to User Settings.
+As a Manager or Admin, I want to be the only ones authorized to create new users.
+As a user, I want the techNotes application to be primarily optimized for desktop use while also being functional on mobile devices.
+3. Conclusion
+The techNotes system will fulfill the requirements outlined in the user stories, providing a robust and user-friendly platform for managing notes within the organization. The application will ensure secure access, efficient note handling, and distinct user role functionalities.
